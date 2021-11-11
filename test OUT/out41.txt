@@ -1,0 +1,10 @@
+1: Sphere with radius 8, density of 9.4 and volume of 2144.660584850632
+2: Perpendicular parallelepiped with sides 10, 20 and 30,
+ density of 2.0 and volume of 6000
+3: Regular tetrahedron with side 4, density of 1.0 and volume of 7.542472332656508
+4: Sphere with radius 7, density of 2.0 and volume of 1436.7550402417319
+5: Perpendicular parallelepiped with sides 2, 2 and 2,
+ density of 2.0 and volume of 8
+6: Regular tetrahedron with side 4, density of 5.0 and volume of 7.542472332656508
+7: Perpendicular parallelepiped with sides 12, 13 and 14,
+ density of 15.0 and volume of 2184

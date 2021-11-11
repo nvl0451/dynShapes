@@ -1,0 +1,5 @@
+1: Perpendicular parallelepiped with sides 2, 2 and 2,
+ density of 2.0 and volume of 8
+2: Sphere with radius 2, density of 7.4635 and volume of 33.510321638291124
+3: Sphere with radius 3, density of 2.0 and volume of 113.09733552923254
+4: Sphere with radius 4, density of 2.0 and volume of 268.082573106329
